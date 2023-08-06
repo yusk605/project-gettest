@@ -1,3 +1,4 @@
 info about this project
-# git add
+# git add-1
+# get add-2
 # project-gettest
